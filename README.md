@@ -2,9 +2,13 @@
 
 ###
 
-<img data-importer="image" align="right" height="168" src="https://private-user-images.githubusercontent.com/307133960/636236090-fbb1e219-0e0a-49f8-a498-19b7fda30743.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MjE5NjQsIm5iZiI6MTc4NjcyMTY2NCwicGF0aCI6Ii8zMDcxMzM5NjAvNjM2MjM2MDkwLWZiYjFlMjE5LTBlMGEtNDlmOC1hNDk4LTE5YjdmZGEzMDc0My5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxNFQxNTM0MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03M2Y1MmRmMGE2NzQ1MWFiOTU4YjNjNTJjMDk4NjE5Y2NkZTVlODg4Yzg4MzMwODIwZjk4NGE4MTQxOGNiYjJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.-7VcNuzkj30df1r8lsujqzHXIv89TsVHBqqiWtuQas4"  />
+<br clear="both">
+
+<p data-importer="text" align="center">Depois de 11 anos em vendas, decidi transformar minha paixão por tecnologia em profissão. Estudo Análise e Desenvolvimento de Sistemas e me divirto desenvolvendo projetos pessoais.<br>Já tenho familiaridade com JavaScript, C, HTML5 e CSS3 mas conto com a ajuda de IDEs com IA para concluir os projetos com linguagens que ainda não aprendi.</p>
 
 ###
+
+<br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
