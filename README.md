@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="center">Depois de 11 anos em vendas, decidi transformar minha paixão por tecnologia em profissão. Estudo Análise e Desenvolvimento de Sistemas e me divirto desenvolvendo projetos pessoais.<br>Já tenho familiaridade com JavaScript, C, HTML5 e CSS3 mas conto com a ajuda de IDEs com IA para concluir os projetos com linguagens que ainda não aprendi.</p>
+<p data-importer="text" align="center">Depois de 11 anos em vendas, decidi transformar minha paixão por tecnologia em profissão. Estudo Análise e Desenvolvimento de Sistemas e me divirto desenvolvendo projetos pessoais.<br>Já tenho familiaridade com JavaScript, C, HTML5 e CSS3 mas conto com a ajuda de IDEs integrados a modelos de IA para concluir os projetos com linguagens que ainda não aprendi.</p>
 
 ###
 
